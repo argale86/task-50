@@ -11,19 +11,10 @@ for (int count1 = 0; count1 < m; count1++)
     for (int count2 = 0; count2 < n; count2++)
     {
         mas[count1,count2] = rnd.Next(-32654, 32654);
-    }
-}
-
-for (int count1 = 0; count1 < m; count1++)
-{
-    for (int count2 = 0; count2 < n; count2++)
-    {
-        mas[count1,count2] = rnd.Next(-32654, 32654);
         Console.Write(" " + mas[count1,count2] + " ");
     }
     Console.WriteLine();
 }
-
 Console.WriteLine("Введите номер элемента по горизонтали в массиве:");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите номер элемента по вертикали в массиве:");
