@@ -1,0 +1,15 @@
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.csproj.AssemblyReference.cache
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.AssemblyInfoInputs.cache
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.AssemblyInfo.cs
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.csproj.CoreCompileInputs.cache
+E:\Обучение в ГБ\c# task 50 homework 7\bin\Debug\net7.0\c# task 50 homework 7.exe
+E:\Обучение в ГБ\c# task 50 homework 7\bin\Debug\net7.0\c# task 50 homework 7.deps.json
+E:\Обучение в ГБ\c# task 50 homework 7\bin\Debug\net7.0\c# task 50 homework 7.runtimeconfig.json
+E:\Обучение в ГБ\c# task 50 homework 7\bin\Debug\net7.0\c# task 50 homework 7.dll
+E:\Обучение в ГБ\c# task 50 homework 7\bin\Debug\net7.0\c# task 50 homework 7.pdb
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.dll
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\refint\c# task 50 homework 7.dll
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.pdb
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\c# task 50 homework 7.genruntimeconfig.cache
+E:\Обучение в ГБ\c# task 50 homework 7\obj\Debug\net7.0\ref\c# task 50 homework 7.dll
